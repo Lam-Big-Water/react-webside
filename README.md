@@ -9,11 +9,6 @@
 
 .React 18
 
-.React Hook
-
 .React Router 6
 
-采用 @media 与 flex 实现 responsive
-
-三.总结
 
